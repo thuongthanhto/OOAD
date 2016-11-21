@@ -1,0 +1,49 @@
+﻿@using WebLinhKienMayTinh.Models;
+@model IEnumerable<SanPham>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+@{
+    IEnumerable<SanPham> listLapTopMoi = (IEnumerable<SanPham>)ViewBag.listLapTopMoi;
+    IEnumerable<SanPham> listPCMoi = (IEnumerable<SanPham>)ViewBag.listPCMoi;
+    IEnumerable<SanPham> listManHinhMoi = (IEnumerable<SanPham>)ViewBag.listManHinhMoi;
+    IEnumerable<SanPham> listPhuKienMoi = (IEnumerable<SanPham>)ViewBag.listPhuKienMoi;
+}
+
+<div class="container">
+    <br/>
+    <br/>
+
+    <div class="content-top">
+        <h1>Laptop mới</h1>
+        <div class="grid-in">
+            @Html.Partial("~/Views/SanPham/SanPhamStylePartial.cshtml", listLapTopMoi)
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+    <hr />
+    <div class="content-top">
+        <h1>Máy tính để bàn mới</h1>
+        <div class="grid-in">
+            @Html.Partial("~/Views/SanPham/SanPhamStylePartial.cshtml", listPCMoi)
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+    <hr />
+    <div class="content-top">
+        <h1>Màn hình vi tính LCD</h1>
+        <div class="grid-in">
+            @Html.Partial("~/Views/SanPham/SanPhamStylePartial.cshtml", listManHinhMoi)
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+    <hr/>
+    <div class="content-top">
+        <h1>Phụ kiện khác</h1>
+        <div class="grid-in">
+            @Html.Partial("~/Views/SanPham/SanPhamStylePartial.cshtml", listPhuKienMoi)
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+</div>

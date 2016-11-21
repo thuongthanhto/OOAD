@@ -1,0 +1,70 @@
+﻿@model WebLinhKienMayTinh.Models.SanPham
+@{
+    Layout = null;
+}
+    
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CapNhatSanPham</title>
+    @*Bước 1 khi sử dụng control editor tinymce*@
+    <script src="~/Content/tinymce/js/tinymce/tinymce.min.js"></script>
+    <script type="text/javascript">
+    tinymce.init({
+        selector: ".textarea",
+        //plugins: [
+        //    "advlist autolink lists link image charmap print preview anchor",
+        //    "searchreplace visualblocks code fullscreen",
+        //    "insertdatetime media table contextmenu paste"
+        //],
+        toolbar: "insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image"
+    });
+    </script>
+</head>
+<body>
+    @*Bước 1: Khi thêm hình ảnh*@
+    @using (Html.BeginForm("CapNhatSanPham", "SanPham", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+    {
+        @Html.EditorFor(model => model.TenSP)
+        @Html.EditorFor(model => model.MaLoaiSP)
+        @Html.EditorFor(model => model.MaNSX)
+        @Html.EditorFor(model => model.Moi)
+        @Html.EditorFor(model => model.DaXoa)
+        @Html.EditorFor(model => model.HinhAnh)
+        @Html.EditorFor(model => model.HinhAnh1)
+        @Html.EditorFor(model => model.HinhAnh2)
+        @Html.EditorFor(model => model.HinhAnh3)
+        @Html.EditorFor(model => model.DonGia)
+        @Html.EditorFor(model => model.NgayCapNhat)
+        <div class="form-horizontal">
+            <div class="form-group">
+                @Html.LabelFor(model => model.MaSP, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.MaSP)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.CauHinh, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                   @Html.TextAreaFor(model => model.CauHinh, 6, 40, new { @class = "form-control", @value = "Tft.WebRole.Properties.Settings.Default.DefaultLanguage" })
+                </div>
+            </div>                                            
+            <div class="form-group">
+                @Html.LabelFor(model => model.MoTa, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextAreaFor(model => model.MoTa, 6, 40, new { @class = "form-control textarea",@value="Tft.WebRole.Properties.Settings.Default.DefaultLanguage"})
+                    @*<textarea name="MoTa" class="textarea">@Model.MoTa</textarea>*@
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Lưu" class="btn btn-success" />
+                </div>
+            </div>
+        </div>
+    }
+</body>
+</html>
