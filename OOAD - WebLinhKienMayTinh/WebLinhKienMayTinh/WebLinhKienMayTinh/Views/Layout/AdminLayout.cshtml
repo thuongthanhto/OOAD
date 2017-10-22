@@ -1,0 +1,147 @@
+﻿@using WebLinhKienMayTinh.Models
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Layout Quản Trị</title>
+    <link href="~/Content/AdminLayout/css/bootstrap.css" rel="stylesheet" type='text/css' />
+    <!-- Custom Theme files -->
+    <link href="~/Content/AdminLayout/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- Custom Theme files -->
+    <script src="~/Content/AdminLayout/js/jquery.min.js"></script>
+    @*<link rel="stylesheet" href="~/Content/AdminLayout/css/font-awesome.css">*@
+    <!-- Custom Theme files -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!--webfont-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <script src="~/Content/AdminLayout/js/jquery.easydropdown.js"></script>
+    <script src="~/Content/AdminLayout/js/jquery.nicescroll.js"></script>
+
+    <link href="~/Content/AdminLayout/css/jqvmap.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script src="~/Content/AdminLayout/js/jquery.vmap.js" type="text/javascript"></script>
+    <script src="~/Content/AdminLayout/js/jquery.vmap.world.js" type="text/javascript"></script>
+    <script src="~/Content/AdminLayout/js/jquery.vmap.sampledata.js" type="text/javascript"></script>
+
+    <script src="~/Content/AdminLayout/js/easyResponsiveTabs.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#horizontalTab,#horizontalTab1,#horizontalTab2').easyResponsiveTabs({
+                type: 'default', //Types: default, vertical, accordion
+                width: 'auto', //auto or any width like 600px
+                fit: true   // 100% fit in a container
+            });
+        });
+    </script>
+    <link href="~/Content/AdminLayout/css/nav.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="~/Content/AdminLayout/js/main.js"></script> <!-- Resource jQuery -->
+    <!-- chart -->
+    <script src="~/Content/AdminLayout/js/Chart1.js"></script>
+    <!-- //chart -->
+</head>
+<body>
+@if (Session["TaiKhoan"] != null)
+{
+    ThanhVien tv = (ThanhVien)Session["TaiKhoan"];
+    <div class="total-content">
+        @Html.Action("MenuQuanTri", "Home")
+        <div class="col-md-9 content">
+            <div class="home-strip">
+                <div class="sales">
+                    <div class="icon">
+                        <i class="dollar"></i>
+                    </div>
+                    <div class="icon-text">
+                        <h3>15896</h3>
+                        <p>Sales</p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="orders">
+                    <div class="icon">
+                        <i class="order"></i>
+                    </div>
+                    <div class="icon-text">
+                        <h3>26856</h3>
+                        <p>New Orders</p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="member pull-right">
+                    <p>
+                        <a href="#"><i class="men"></i></a><a href="#">Tài khoản</a>
+                    </p>
+                    <div id="dd" class="wrapper-dropdown-2" tabindex="1">
+                        <span><img src="~/Content/AdminLayout/images/settings.png"></span>
+                        <ul class="dropdown">
+                            <li><a href="#">@tv.HoTen</a></li>
+                            <li><a href="@Url.Action("DangXuat", "Home")">Đăng xuất</a></li>
+                        </ul>
+                    </div>
+                    <!-----end-wrapper-dropdown-2---->
+                    <!-----start-script---->
+                    <script type="text/javascript">
+                        function DropDown(el) {
+                            this.dd = el;
+                            this.initEvents();
+                        }
+
+                        DropDown.prototype = {
+                            initEvents: function() {
+                                var obj = this;
+
+                                obj.dd.on('click',
+                                    function(event) {
+                                        $(this).toggleClass('active');
+                                        event.stopPropagation();
+                                    });
+                            }
+                        }
+                        $(function() {
+
+                            var dd = new DropDown($('#dd'));
+
+                            $(document)
+                                .click(function() {
+                                    // all dropdowns
+                                    $('.wrapper-dropdown-2').removeClass('active');
+                                });
+
+                        });
+                    </script>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="clearfix"></div>
+            <br/>
+            <br/>
+            @RenderBody()
+
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="footer">
+        <div class="copyright text-center">
+            <p>
+                © 2015 All rights reserved | Template by <a href="http://w3layouts.com"> W3layouts</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="jqvmap-label" style="display: none;"></div>
+}
+else
+{
+    // Redirect to error page if access to page which you dont have permission to access
+    <script language="javascript">
+        window.location.replace("/Home/PermissionError");
+    </script>
+    @RenderBody()
+}
+
+</body>
+</html>

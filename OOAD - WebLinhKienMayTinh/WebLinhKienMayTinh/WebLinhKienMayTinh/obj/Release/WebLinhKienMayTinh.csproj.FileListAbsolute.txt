@@ -1,0 +1,120 @@
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebLinhKienMayTinh.dll.config
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebLinhKienMayTinh.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebLinhKienMayTinh.pdb
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Antlr3.Runtime.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\EntityFramework.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\EntityFramework.SqlServer.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Google.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Web.Infrastructure.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Newtonsoft.Json.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Owin.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\PagedList.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\PagedList.Mvc.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Helpers.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Mvc.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Optimization.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Razor.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.Deployment.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.Razor.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebGrease.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebGridBootstrapPager.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\PagedList.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\PagedList.Mvc.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Helpers.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Mvc.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Optimization.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Razor.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.Deployment.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.Razor.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Antlr3.Runtime.pdb
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Newtonsoft.Json.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\EntityFramework.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\EntityFramework.SqlServer.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Google.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\obj\Release\WebLinhKienMayTinh.csprojResolveAssemblyReference.cache
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\obj\Release\WebLinhKienMayTinh.dll
+E:\Local Repository\WebLinhKienMayTinh\WebLinhKienMayTinh\obj\Release\WebLinhKienMayTinh.pdb
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebLinhKienMayTinh.dll.config
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebLinhKienMayTinh.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebLinhKienMayTinh.pdb
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Antlr3.Runtime.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\EntityFramework.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\EntityFramework.SqlServer.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Newtonsoft.Json.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Owin.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\PagedList.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\PagedList.Mvc.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Helpers.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Mvc.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Optimization.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Razor.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.Razor.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebGrease.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\WebGridBootstrapPager.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\PagedList.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\PagedList.Mvc.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Helpers.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Mvc.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Optimization.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.Razor.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\System.Web.WebPages.Razor.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Antlr3.Runtime.pdb
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Newtonsoft.Json.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\EntityFramework.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\EntityFramework.SqlServer.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\obj\Release\WebLinhKienMayTinh.csprojResolveAssemblyReference.cache
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\obj\Release\WebLinhKienMayTinh.dll
+C:\Users\ThuongIT\Downloads\OOAD - WebLinhKienMayTinh\WebLinhKienMayTinh\WebLinhKienMayTinh\obj\Release\WebLinhKienMayTinh.pdb
